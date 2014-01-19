@@ -2,7 +2,7 @@ def beersong(nb_at_start)
   # your code goes here
 end
 
-beersong( ARGV[0] )
+beersong(ARGV[0])
 
 # output (if called with 5 beers) :
 
